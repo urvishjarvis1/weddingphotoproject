@@ -1,0 +1,19 @@
+{
+  "name": "weddingphotoproject",
+  "version": "1.0.0",
+  "description": "Project for user to upload photos they took during an event. The photo will be saved to the personal cloud of the organizer and user will have QR code to access the photos of themselves.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urvishjarvis1/weddingphotoproject.git"
+  },
+  "author": "Urvish Rana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/urvishjarvis1/weddingphotoproject/issues"
+  },
+  "homepage": "https://github.com/urvishjarvis1/weddingphotoproject#readme"
+}
